@@ -54,7 +54,7 @@ Use webpack to bundle JavaScript.
 <!-- LIVE DEMO -->
 
 ## 🚀 Live Demo <a name="live-demo"></a>
-
+https://amazinggracee.github.io/Leaderboard1/dist/
 
 - [Click Here]()
 
@@ -67,7 +67,7 @@ Use webpack to bundle JavaScript.
 You can have a copy of this repo run on your local machine by just directly cloning it.
 
 To get a local copy up and running follow these simple example steps.
-1. Download the `Zip` or `(git clone)[https://github.com/Amazinggracee/Leaderboard.git]`
+1. Download the `Zip` or `(git clone)[https://github.com/Amazinggracee/Leaderboard1.git]`
 2. `cd Leaderboard`
 3. Then open in your browser by using `live server`
 
@@ -102,7 +102,7 @@ To get the output of our project make sure you have google Chrome, Mozila or any
 
 1. - [ ] Open the `Terminal`
 2. - [ ] Navigate to the directory where you want to add this repository
-3. - [ ] Run `git clone https://github.com/Amazinggracee/Leaderboard.git`
+3. - [ ] Run `git clone https://github.com/Amazinggracee/Leaderboard1.git`
 4. - [ ] Run `npm install` to install the necessary modules
 5. - [ ] Run `npm start`
 
@@ -127,9 +127,14 @@ To get the output of our project make sure you have google Chrome, Mozila or any
 ## 🔭 Future Features <a name="future-features"></a>
 
 
-- [ ] **[Drag_and_drop_sot]**
-- [ ] **[More_animations]**
-- [ ] **[More_styles]**
+- [ ] ** API Documentation
+- [ ] ** Create a new game
+- [ ] ** Implement the "Refresh" button
+- [ ] ** Now you should improve the look and feel of the application
+- [ ] **
+- [ ] **
+- [ ] **
+- [ ] **
 
 
 
@@ -141,7 +146,7 @@ To get the output of our project make sure you have google Chrome, Mozila or any
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/Amazinggracee/Leaderboard/issues).
+Feel free to check the [issues page](https://github.com/Amazinggracee/Leaderboard1/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

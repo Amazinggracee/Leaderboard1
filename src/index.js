@@ -1,10 +1,10 @@
 import './style.css';
 import Store from './modules/store.js';
-import UI from './modules/design.js';
+import Design from './modules/design.js';
 import User from './modules/user.js';
 
 // display users onload of the page
-document.addEventListener('DOMContentLoaded', UI.displayUsers);
+document.addEventListener('DOMContentLoaded', Design.displayUsers);
 
 const form = document.querySelector('#user-form');
 
@@ -17,7 +17,7 @@ form.addEventListener('submit', (e) => {
   const user = new User(name, score);
 
   Store.addUser(user);
-  UI.addUserToList(user);
+  Design.addUserToList(user);
 
-  UI.clearFields();
+  Design.clearFields();
 });

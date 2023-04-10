@@ -1,10 +1,10 @@
 import Store from './store.js';
 
-class UI {
+class Design {
   static displayUsers() {
     const users = Store.getUser();
 
-    users.forEach((user) => UI.addUserToList(user));
+    users.forEach((user) => Design.addUserToList(user));
   }
 
   static addUserToList(user) {
@@ -24,4 +24,4 @@ class UI {
   }
 }
 
-export default UI;
+export default Design;
