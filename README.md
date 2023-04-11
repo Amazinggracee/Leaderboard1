@@ -28,10 +28,14 @@
 
 ## Learning objectives <a name="objectives"></a>
 
-Use callbacks and promises.
-Learn how to use proper ES6 syntax.
-Use ES6 modules to write modular JavaScript.
-Use webpack to bundle JavaScript.
+- Use callbacks and promises.
+- Learn how to use proper ES6 syntax.
+- Use ES6 modules to write modular JavaScript.
+- Use webpack to bundle JavaScript.
+- Send and receive data from an API.
+- Use API documentation.
+- Understand and use JSON.
+- Make JavaScript code asynchronous.
 
 ## 🛠 Built With <a name="built-with"></a>
 - **[Html]**
@@ -39,13 +43,17 @@ Use webpack to bundle JavaScript.
 - **[JavaScript]**
 - **[webpack]**
 - **[npm]**
+- **[API]**
   
 <!-- Features -->
 
 ### Key Features <a name="key-features"></a>
 
-- **[Leaderboard-structure]**
-- **[Adding_a_new_score]**
+- [ ] Leaderboard-structure
+- [ ] Adding_a_new_score
+- [ ] ** API Documentation
+- [ ] ** Create a new game
+- [ ] ** Implement the "Refresh" button
 
 
 
@@ -127,14 +135,9 @@ To get the output of our project make sure you have google Chrome, Mozila or any
 ## 🔭 Future Features <a name="future-features"></a>
 
 
-- [ ] ** API Documentation
-- [ ] ** Create a new game
-- [ ] ** Implement the "Refresh" button
+
 - [ ] ** Now you should improve the look and feel of the application
-- [ ] **
-- [ ] **
-- [ ] **
-- [ ] **
+
 
 
 

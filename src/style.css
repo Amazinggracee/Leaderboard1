@@ -19,8 +19,7 @@
 button {
   padding: 5px;
   cursor: pointer;
-  max-width: 70px;
-  width: 100px;
+  width: 60px;
   border: 1px solid var(--border);
   box-shadow: 4px 4px 0 var(--border);
   background: transparent;
@@ -33,6 +32,10 @@ button:active {
   background-color: var(--gray-color);
   box-shadow: 0 5px var(--success-color);
   transform: translateY(4px);
+}
+
+.add-btn {
+  margin-left: 60%;
 }
 
 body {
@@ -71,6 +74,11 @@ main {
   justify-content: space-between;
   align-items: center;
   margin-bottom: 10px;
+  font-size: 18px;
+}
+
+.score-header h2 {
+  font-size: 18px;
 }
 
 table {
@@ -82,7 +90,7 @@ table {
   height: auto;
 }
 
-tr:nth-child(even) {
+tr:nth-of-type(even) {
   background-color: var(--color-secondary);
 }
 
