@@ -82,7 +82,7 @@ table {
   height: auto;
 }
 
-tr:nth-child(even) {
+tr:nth-of-type(even) {
   background-color: var(--color-secondary);
 }
 
