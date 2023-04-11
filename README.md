@@ -36,6 +36,7 @@
 - Use API documentation.
 - Understand and use JSON.
 - Make JavaScript code asynchronous.
+- Understand how to use medium-fidelity wireframes to create a UI.
 
 ## 🛠 Built With <a name="built-with"></a>
 - **[Html]**
@@ -54,6 +55,7 @@
 - [ ] ** API Documentation
 - [ ] ** Create a new game
 - [ ] ** Implement the "Refresh" button
+- [ ] ** Now you should improve the look and feel of the application
 
 
 
@@ -133,10 +135,6 @@ To get the output of our project make sure you have google Chrome, Mozila or any
 <!-- FUTURE FEATURES -->
 
 ## 🔭 Future Features <a name="future-features"></a>
-
-
-
-- [ ] ** Now you should improve the look and feel of the application
 
 
 
