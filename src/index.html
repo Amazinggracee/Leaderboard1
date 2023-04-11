@@ -12,8 +12,8 @@
     <main>
         <h1 class="main-title">Leaderboard</h1>
         <div class="content">
-            <div class="left-side">
-                <div class="left-header">
+            <div class="score-display">
+                <div class="score-header">
                     <h2>Recent scores</h2>
                     <button class="refresh-button">Refresh</button>
                 </div>
@@ -27,12 +27,13 @@
                     <h2>Add your score</h2>
                 </div>
                 <form id="user-form" action="submit">
-                    <input type="text" id="name" name="name" placeholder="Name">
-                    <input type="number" id="score" name="score" placeholder="Score">
+                    <input type="text" id="name" name="name" placeholder="Name" required>
+                    <input type="number" id="score" name="score" placeholder="Score" required>
                     <button class="add-btn" type="submit">Submit</button>
                 </form>
             </div>
         </div>
+        <footer></footer>
     </main>
 </body>
 
